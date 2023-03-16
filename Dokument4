@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "Dokument5.dtd">
+
+<root>
+<note>
+<notetext>
+Eine Notiz
+</notetext>
+</note>
+<message>
+<from>Eva</from>
+<to>Sabine</to>
+<title>Erinnerung</title>
+<text>Morgen Meeting</text>
+</message>
+</root>

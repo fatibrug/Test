@@ -1,0 +1,9 @@
+<!ELEMENT element (#PCDATA)>
+ <!ELEMENT root (#PCDATA | note | message)* >
+ <!ELEMENT note (#PCDATA | notetext)*>
+  <!ELEMENT notetext (#PCDATA)>
+ <!ELEMENT message (#PCDATA | text | from | to | title)*>
+ <!ELEMENT from (#PCDATA)>
+ <!ELEMENT to (#PCDATA)>
+ <!ELEMENT title (#PCDATA)>
+ <!ELEMENT text (#PCDATA)>

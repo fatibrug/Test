@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addressbook>
+
+<Person>
+<name>
+<firstname>Frank</firstname>
+<lastname> Maier</lastname>
+</name>
+<address>
+<street>Eggenberger Alle</street>
+<streetnumber>22/12</streetnumber>
+<zipcode>8020</zipcode>
+<city>Graz</city>
+</address>
+<contact>
+<phone>0316-24567</phone>
+<mobile>0650-123644</mobile>
+</contact>
+<data>
+<shoesize> &gt; 46</shoesize>
+</data>
+</Person>
+
+<Person>
+<name>
+<firstname>Petra</firstname>
+<lastname> Aigner</lastname>
+</name>
+<address>
+<street>Kaiserfeldgasse</street>
+<streetnumber>10/3</streetnumber>
+<zipcode>8010</zipcode>
+<city>Graz</city>
+</address>
+</Person>
+
+<Person>
+<name>
+<firstname>Max</firstname>
+<lastname> Binder</lastname>
+</name>
+<address>
+<street>Max-Melle-Allee</street>
+<streetnumber>1</streetnumber>
+<zipcode>8010</zipcode>
+<city>Graz</city>
+</address>
+<contact>
+<phone></phone>
+<mobile>0650-123644</mobile>
+</contact>
+</Person>
+
+<Company>
+<name>
+<companyname>FH Campus 02</companyname>
+</name>
+<employees> &lt; 100 </employees>
+<address>
+<street>Körblergasse</street>
+<streetnumber>126</streetnumber>
+<zipcode>8010</zipcode>
+<city>Graz</city>
+</address>
+<contact>
+<phone></phone>
+<mobile></mobile>
+</contact>
+</Company>
+
+<Person>
+<name>
+<firstname>Fatima</firstname>
+<lastname> Brugger</lastname>
+</name>
+<address>
+<street>Wiener Straße </street>
+<streetnumber>856/G</streetnumber>
+<zipcode>8020</zipcode>
+<city>Graz</city>
+</address>
+<contact>
+<phone>0316-24545</phone>
+<mobile>0650-1277777</mobile>
+</contact>
+</Person>
+
+</addressbook>
+

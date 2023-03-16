@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE message[
+ <!ELEMENT message (#PCDATA | node | from | to | title | text )* >
+ <!ELEMENT node (#PCDATA)>
+ <!ELEMENT from (#PCDATA)>
+ <!ELEMENT to (#PCDATA)>
+ <!ELEMENT title (#PCDATA)>
+ <!ELEMENT text (#PCDATA)>
+]>
+
+<message>
+<node>My new message:</node>
+<from>Eva</from>
+<to>Sabine</to>
+<title>Erinnerung</title>
+<text>Morgen Meeting</text>
+</message>
